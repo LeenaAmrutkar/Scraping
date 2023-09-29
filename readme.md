@@ -26,4 +26,4 @@ Installation:
 Install all required packages
 
 Execution:
-python3 filename.py
+python3 filename.py i.e (python3 main.py)
